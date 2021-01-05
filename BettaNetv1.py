@@ -1,6 +1,5 @@
-# This Python 3 environment comes with many helpful analytics libraries installed
-# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
-# For example, here's several helpful packages to load in 
+# Cite this paper as follows 
+# Voravarun Pattana-Anake, Pimsiri Danphitsanuparn and Ferdin Joe John Joseph, "BettaNet:A Deep Learning Architecture for Classification of Wild Siamese Betta Species", IOP Proceedings in Material Science and Engineering, 2021
 ep=50
 modelf="bnetv1-50.h5"
 modelj="bnetv1-50.json"
